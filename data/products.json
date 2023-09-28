@@ -1,0 +1,16 @@
+[
+    {
+        "id": "123455",
+        "title": "new book",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+        "description": "This is new book",
+        "price": "39"
+    },
+    {
+        "title": "new Book",
+        "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
+        "description": "new book added",
+        "price": "34",
+        "id": "0.8406738610907685"
+    }
+]
